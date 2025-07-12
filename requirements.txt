@@ -2,4 +2,4 @@ requests
 schedule
 python-dotenv
 tqdm
-py_clob_client
+py-clob-client
